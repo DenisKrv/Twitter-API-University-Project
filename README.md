@@ -1,6 +1,4 @@
-# Twitter-API-University-Project
--Testing the Twitter API on a University Assignment Project-
-
+# Twitter-api-project-
 This is a simple twitter API project that is written in python and uses the tweeypy library to collect tweets and compare their popularity per some specific programming language kewords and hashtages(#)
 
 Requirements to execute the program:
